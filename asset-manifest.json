@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/varung-portfolio/static/css/main.ee19aa5f.chunk.css",
-    "main.js": "/varung-portfolio/static/js/main.37ba4ed5.chunk.js",
-    "main.js.map": "/varung-portfolio/static/js/main.37ba4ed5.chunk.js.map",
+    "main.css": "/varung-portfolio/static/css/main.6b660649.chunk.css",
+    "main.js": "/varung-portfolio/static/js/main.fdcd4709.chunk.js",
+    "main.js.map": "/varung-portfolio/static/js/main.fdcd4709.chunk.js.map",
     "runtime-main.js": "/varung-portfolio/static/js/runtime-main.e3b92c51.js",
     "runtime-main.js.map": "/varung-portfolio/static/js/runtime-main.e3b92c51.js.map",
-    "static/css/2.20aa2d7b.chunk.css": "/varung-portfolio/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.4664361d.chunk.js": "/varung-portfolio/static/js/2.4664361d.chunk.js",
-    "static/js/2.4664361d.chunk.js.map": "/varung-portfolio/static/js/2.4664361d.chunk.js.map",
+    "static/css/2.e5750c50.chunk.css": "/varung-portfolio/static/css/2.e5750c50.chunk.css",
+    "static/js/2.36049cb1.chunk.js": "/varung-portfolio/static/js/2.36049cb1.chunk.js",
+    "static/js/2.36049cb1.chunk.js.map": "/varung-portfolio/static/js/2.36049cb1.chunk.js.map",
     "static/js/3.fd0890aa.chunk.js": "/varung-portfolio/static/js/3.fd0890aa.chunk.js",
     "static/js/3.fd0890aa.chunk.js.map": "/varung-portfolio/static/js/3.fd0890aa.chunk.js.map",
     "index.html": "/varung-portfolio/index.html",
-    "static/css/2.20aa2d7b.chunk.css.map": "/varung-portfolio/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.ee19aa5f.chunk.css.map": "/varung-portfolio/static/css/main.ee19aa5f.chunk.css.map",
-    "static/js/2.4664361d.chunk.js.LICENSE.txt": "/varung-portfolio/static/js/2.4664361d.chunk.js.LICENSE.txt",
+    "static/css/2.e5750c50.chunk.css.map": "/varung-portfolio/static/css/2.e5750c50.chunk.css.map",
+    "static/css/main.6b660649.chunk.css.map": "/varung-portfolio/static/css/main.6b660649.chunk.css.map",
+    "static/js/2.36049cb1.chunk.js.LICENSE.txt": "/varung-portfolio/static/js/2.36049cb1.chunk.js.LICENSE.txt",
     "static/media/Programmer.0fac530a.png": "/varung-portfolio/static/media/Programmer.0fac530a.png",
     "static/media/about.aee0f771.png": "/varung-portfolio/static/media/about.aee0f771.png",
     "static/media/avatar.5482709f.png": "/varung-portfolio/static/media/avatar.5482709f.png",
@@ -27,9 +27,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e3b92c51.js",
-    "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.4664361d.chunk.js",
-    "static/css/main.ee19aa5f.chunk.css",
-    "static/js/main.37ba4ed5.chunk.js"
+    "static/css/2.e5750c50.chunk.css",
+    "static/js/2.36049cb1.chunk.js",
+    "static/css/main.6b660649.chunk.css",
+    "static/js/main.fdcd4709.chunk.js"
   ]
 }
