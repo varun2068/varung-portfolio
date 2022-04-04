@@ -6,7 +6,7 @@ import About from "./components/About/About";
 import Services from "./components/Services/Services";
 import Footer from "./components/Footer";
 import Contact from "./components/Contact/Contact";
-import { BrowserRouter as HashRouter, Route, Switch } from "react-router-dom";
+import {HashRouter, Route, Switch } from "react-router-dom";
 import "./style.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
