@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="" target="_blank">VarunGupta</a>
+  <a href="https://varun2068.github.io/varung-portfolio/#/" target="_blank">VarunGupta</a>
 </h2>
 <div align="center">
   <img alt="Dekstop View of Main Page Picture" src="./Images/main-page.png" />
@@ -13,7 +13,7 @@
 
 ## Built With
 
-My personal portfolio <a href="#" target="_blank">site.name</a> which features my resume and some of my technical skills.<br/>
+My personal portfolio <a href="https://varun2068.github.io/varung-portfolio/#/" target="_blank">Varun Gupta's Portfolio</a> which features about myself and some of my technical skills.<br/>
 
 This project was built using these technologies.
 
